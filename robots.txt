@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://orahuece.github.io/EgT/sitemap_index.txt
+Sitemap: https://orahuece.github.io/GqC/sitemap_index.txt
+Sitemap: https://orahuece.github.io/rgi/sitemap_index.txt
+Sitemap: https://orahuece.github.io/sMq/sitemap_index.txt
